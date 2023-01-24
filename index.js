@@ -57,7 +57,7 @@ ${license}
 
 ## Badges
 
-![${license}](https://img.shields.io/license/${badge})
+![${license}](https://img.shields.io/badge/${badge})
 
 ## Features
 
@@ -87,7 +87,7 @@ inquirer
         },
         {
             type: "input",
-            message: "Description: What was the motivation?",
+            message: "Description: What was the motivation for this project?",
             name: "description1",
         },
         {
@@ -97,7 +97,7 @@ inquirer
         },
         {
             type: "input",
-            message: "Description: What problem does it solve",
+            message: "Description: What problem does this project solve?",
             name: "description3",
         },
         {
