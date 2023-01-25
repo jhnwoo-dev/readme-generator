@@ -151,7 +151,7 @@ inquirer
                 "license-Apache-blue",
                 "license-MIT-green",
                 "license-GPL-blue",
-                "none",
+                "none-%20-blue",
             ],
             name: "badge",
         },
