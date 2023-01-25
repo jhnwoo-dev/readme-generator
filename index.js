@@ -24,10 +24,10 @@ const generateREADME = ({
 
 ## Description
 
--${description1}
--${description2}
--${description3}
--${description4}
+${description1}
+${description2}
+${description3}
+${description4}
 
 ## Table of Contents
 
@@ -73,7 +73,7 @@ ${tests}
 
 ## Questions
 
-For any questions regarding this project, feel free to reach out to the email below:
+For any questions regarding this project, feel free to reach out to the email listed:
 ${email}
     `;
 };

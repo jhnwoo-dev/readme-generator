@@ -2,10 +2,7 @@
 
 ## Description
 
--The motivation for this project was to create a program that would streamline the writing process for a README.
--I built this project to produce a README that would be created simply through user inputs.
--This solves the user's hassle of having to find a template and delete and replace information to create a professional README file.
--Throughout this project I learned how to prompt a user with questions and use the collected data to create a simple formatted document of my choice.
+The motivation for this project was to create a program that would streamline the writing process for a README. I built this project to produce a README that would be created simply through user inputs. This solves the user's hassle of having to find a template and delete and replace information to create a professional README file. Throughout this project I learned how to prompt a user with questions and use the collected data to create a simple formatted document of my choice.
 
 ## Table of Contents
 
@@ -51,5 +48,5 @@ N/A
 
 ## Questions
 
-For any questions regarding this project, feel free to reach out to the email below:
+For any questions regarding this project, feel free to reach out to the email linked:
 jhnguyen99@gmail.com
