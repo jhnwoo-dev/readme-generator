@@ -119,7 +119,7 @@ inquirer
         },
         {
             type: "input",
-            message: "Credits: List yourself as the primary creditor.",
+            message: "Credits: Input your name as the primary creditor.",
             name: "credits1",
         },
         {
@@ -141,7 +141,7 @@ inquirer
         {
             type: "list",
             message: "License: Select the license for this project.",
-            choices: ["Apache 2.0", "GNU GPLv3", "MIT", "GNU GPLv3"],
+            choices: ["Apache 2.0", "GNU GPLv3", "MIT", "GNU GPLv3", "N/A"],
             name: "license",
         },
         {
@@ -151,6 +151,7 @@ inquirer
                 "license-Apache-blue",
                 "license-MIT-green",
                 "license-GPL-blue",
+                "none",
             ],
             name: "badge",
         },
@@ -162,7 +163,7 @@ inquirer
         {
             type: "input",
             message:
-                "If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.",
+                "If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.The Contributor Covenant is an industry standard, but you can always write your own if you'd prefer.",
             name: "contribution",
         },
         {
