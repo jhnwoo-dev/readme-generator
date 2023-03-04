@@ -1,12 +1,12 @@
 
-# asdf
+# Challenge 14: TechBlog
 
 ## Description
 
-asdf
-asdf
-asdf
-asddf
+The motivation for this project was to learn how to utilize sequelize and handlebars in a social media-type program.
+I built this project to practice using sequelize and handlebars.
+
+I learned how to troubleshoot the small details of handlebars and the controllers of a social media program.
 
 ## Table of Contents
 
@@ -17,18 +17,18 @@ asddf
 
 ## Installation
 
-asdf
+Once you have the repo cloned to the location of your choice, run the commands "npm i" to install your depenencies. Once you have your dependencies installed, start your mysql and source your schema.sql. Once that has been completed, go ahead and run the commands node index.js or nodemon to begin the server.
 
 ## Usage
 
-asdf
+You will be able to create a blog, update a blog, and comment on blogs.
     
 
 ## Credits
 
-asdf - https://github.com/asdf
+Jason Nguyen - https://github.com/jhnwoo-dev
 
-asfd
+
 
 ## License
 
@@ -36,22 +36,22 @@ N/A
 
 ## Badges
 
-![N/A](https://img.shields.io/badge/none)
+![N/A](https://img.shields.io/badge/none-%20-blue)
 
 ## Features
 
-asdfasdf
+
 
 ## How to Contribute
 
-asdf
+
 
 ## Tests
 
-asdf
+
 
 ## Questions
 
 For any questions regarding this project, feel free to reach out to the email listed:
-asdf
+jhnguyen99@gmail.com
     
